@@ -70,9 +70,12 @@ After establishing a logistic regression baseline, I would compare non-linear mo
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/main/hospital_readmission_risk.ipynb) to access the Jupyter notebook
 
 
 ##### Contact and Further Information
+
+Thank you for reviewing this project. I welcome feedback, collaboration opportunities, and discussions related to healthcare analytics, applied machine learning, and value-based care.
+
+Author: Harini Jagannathan
+Focus Areas: Healthcare Analytics | Applied AI/ML | Population Health | Risk Stratification
