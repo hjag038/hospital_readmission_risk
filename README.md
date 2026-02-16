@@ -33,8 +33,7 @@ diabetic patients?
 #### Data Sources
 What data will you use to answer your question?
 
-● https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+199
-9-2008
+● https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 ● https://www.kaggle.com/datasets/dubradave/hospital-readmissions/data
 
 #### Methodology
