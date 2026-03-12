@@ -70,7 +70,7 @@ After establishing a logistic regression baseline, I would compare non-linear mo
 
 #### Outline of project
 
-- Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/main/hospital_readmission_risk.ipynb) to access the Jupyter notebook
+- Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/capstone_project_part_1/hospital_readmission_risk.ipynb) to access the Jupyter notebook
 
 
 ##### Contact and Further Information
