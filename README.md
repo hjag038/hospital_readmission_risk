@@ -63,7 +63,7 @@ Future work could incorporate additional data such as comorbidities, medication 
 #### Outline of project
 
 - Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/main/hospital_readmission_risk.ipynb) to access the Jupyter notebook
-- Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/main/final_report/Capstone Project_Final Report_Harini_J.pdf) to access the Final Project Report
+- Click [here](https://github.com/hjag038/hospital_readmission_risk/blob/main/final_report/Capstone_Project_Final_Report_Harini_J.pdf) to access the Final Project Report
 
 
 ##### Contact and Further Information
